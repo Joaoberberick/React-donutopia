@@ -1,0 +1,41 @@
+.navbar{
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.navbar-brand{
+  font-size: 30px !important;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  align-items: center;
+  display: inline-block;
+  background: none;
+}
+
+.logo{
+  height: 45px;
+  background: none;
+}
+
+.nav-content{
+  width: 80%;
+  margin: 0 auto;
+  max-width: 1110px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: none;
+}
+
+
+.nav-item{
+  background-color: transparent;
+}
+
+.nav-link {
+  font-size: 20px !important;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background: none;
+}
